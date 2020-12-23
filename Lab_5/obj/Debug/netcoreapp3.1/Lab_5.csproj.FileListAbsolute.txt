@@ -1,0 +1,13 @@
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.exe
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.deps.json
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.runtimeconfig.json
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.runtimeconfig.dev.json
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.dll
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.pdb
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.csprojAssemblyReference.cache
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.AssemblyInfoInputs.cache
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.AssemblyInfo.cs
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.dll
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.pdb
+C:\Users\Денис\Downloads\CDU_OOP-master\CDU_OOP-master\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.genruntimeconfig.cache
