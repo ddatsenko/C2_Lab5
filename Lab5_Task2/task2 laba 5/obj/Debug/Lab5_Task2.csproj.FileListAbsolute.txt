@@ -1,0 +1,10 @@
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\bin\Debug\task2 laba 5.exe.config
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\bin\Debug\task2 laba 5.exe
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\bin\Debug\task2 laba 5.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\Lab5_Task2.csprojAssemblyReference.cache
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\task2_laba_5.Form1.resources
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\task2_laba_5.Properties.Resources.resources
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\Lab5_Task2.csproj.GenerateResource.cache
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\Lab5_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\task2 laba 5.exe
+C:\Users\Денис\Downloads\Telegram Desktop\подарунок для єгорчіка\laba 5 on git\task2 laba 5\task2 laba 5\obj\Debug\task2 laba 5.pdb
